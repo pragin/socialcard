@@ -2,7 +2,7 @@
 
 This is a simple social card example purely using React.js and CSS3.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be accessed at https://pragin-social-card.herokuapp.com/
 
 ## Available Scripts
 
